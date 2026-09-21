@@ -65,7 +65,7 @@ The table below summarizes leading commercial Connected Worker and Industrial Fr
 
 Full connected-frontline suites are primarily commercial SaaS solutions. However, practical open-source building blocks—such as **digital work-instruction prototypes**, **AR guidance engines**, **open CMMS platforms**, **ERP/MES modules**, and **collaborative SOP wikis**—allow engineering teams to maintain data sovereignty and build custom shop-floor stacks.
 
-The table below lists open-source GitHub repositories suitable for industrial frontline adoption, sorted by GitHub Stars_Count (descending):
+The table below lists open-source GitHub repositories suitable for industrial frontline adoption, sorted by GitHub_Stars_Count (descending):
 
 | Repository / Project | GitHub_Stars | Category & Core Capabilities | License |
 | :--- | :--- | :--- | :--- |
